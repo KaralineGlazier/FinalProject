@@ -1,4 +1,4 @@
-# ReactionClickGame
+# Reaction Click Game
 
 ## Synopsis
 
